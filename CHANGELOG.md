@@ -1,4 +1,6 @@
 ## Changelog
+**2.1.1** -  <small>_November 14th, 2017_</small>
+- support for open stream function, source is function that returns stream, s3 timeouts if  idle streams are kept open for too long, so they are opened while packing.
 
 **2.1.0** — <small>_October 12th, 2017_</small> — [Diff](https://github.com/archiverjs/node-archiver/compare/2.0.3...2.1.0)
 
